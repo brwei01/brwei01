@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23777
-Fork on GitHub
-8145
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Borui</h1>
 <h3 align="left">Connect with me: www.linkedin.com/in/borui-wei</h3>
 <p align="left">
